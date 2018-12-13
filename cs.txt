@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 bendixiugai
-=======
-yuanchengxiugai
->>>>>>> cd24a6856d9deea0ca86ed4666f17a93159790ee
